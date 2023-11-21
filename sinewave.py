@@ -4,7 +4,7 @@ import matplotlib.pyplot as plot
 
 # Get x values of the sine wave
 
-time = np.arange(0, 10, 0.1);
+time = np.arange(0, 10, 0.5);
 
 # Amplitude of the sine wave is sine of a variable like time
 
